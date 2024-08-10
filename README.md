@@ -1,1 +1,1 @@
-# Saliency-Detection
+# Sal-Detection
